@@ -1,2 +1,0 @@
-# WA
-Created with CodeSandbox
